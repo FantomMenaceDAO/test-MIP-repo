@@ -7,16 +7,14 @@ assignees: ''
 
 ---
 
-### What is the improvement we should make
+## Abstract
 What we should do, and how does this solve the problem and improve our DAO
 
-### Describe why this improvement should happen
-A clear and concise description of what the issue is
-And what problem it solves, what is the pain point?
+## Motivation
+A clear and concise description of what the improvement is. What is the pain point, and how does the improvement solve it?
 
-### Who will be owners for the project?
-List folks who are going to **owners** for the project (be responsible for delivering)
-List also folks who might contribute to the project
+## Owners
+List folks who are going to **owners** for the project and be responsible for delivering
 
-### What resources will you need?
+## Resources
 Do you need funding? Do the contributors to making this improvement need to be paid in NFTs or FTM?

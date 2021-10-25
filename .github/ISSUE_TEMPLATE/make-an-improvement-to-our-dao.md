@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+# Menace Improvement Proposal (MIP-X)
+
 ## Abstract
 What we should do, and how does this solve the problem and improve our DAO
 

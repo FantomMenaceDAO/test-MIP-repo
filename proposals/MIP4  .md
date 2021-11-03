@@ -1,4 +1,4 @@
-# Menace Improvement Proposal (MIP-X)
+# Menace Improvement Proposal (MIP-5)
 
 ## Abstract
 Using a Nouns DAO Structure with expanded features that focus on leveraging our artistic community and focusing on creating a proper system to support NFTs as a new asset class
